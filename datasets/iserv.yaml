@@ -4,6 +4,10 @@ Documentation: https://stacindex.org/collections/nasa-iserv
 Contact: support@radiant.earth
 ManagedBy: "[Radiant Earth Foundation](https://www.radiant.earth/)"
 UpdateFrequency: Not updated
+Collabs:
+  ASDI:
+    Tags:
+      - satellite imagery
 Tags:
   - aws-pds
   - geospatial
